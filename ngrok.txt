@@ -1,1 +1,6 @@
 ngrok config add-authtoken 2G2APe259jT0gcHvdjkmkSMmf7R_2mgU7cJhTMiTq1tDpxJ4Y
+
+
+
+185.188.253.48:12324:14a5e20b0076b:face7c9f09
+185.188.253.251:12324:14a5e20b0076b:face7c9f09
